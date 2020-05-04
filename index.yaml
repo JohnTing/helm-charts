@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  submarine:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-05-05T00:38:37.758220869+08:00"
+    description: A Helm chart for submarine. It will deploy tensorflow operator, pytorch
+      operator, and submarine server, MySQL in kubernetes.
+    digest: 9e0b4e4418e0a4a2a92747a2e66cde36f515ff41033e31666fd742c20698e4b8
+    icon: https://submarine.apache.org/assets/themes/submarine/img/submarine_white_logo.png
+    name: submarine
+    urls:
+    - submarine-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-05-05T00:38:37.749275336+08:00"
